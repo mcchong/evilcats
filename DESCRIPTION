@@ -1,9 +1,10 @@
 Package: evilcats
-Title: What the Package Does (one line, title case)
+Title: Useful functions for the programming language that shall not be named (for IP602)
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Mike", "Chong", email = "mcchong@uwaterloo.ca", role = c("aut", "cre"))
+Description: Assorted functions for IP602
 Depends: R (>= 3.3.1)
-License: What license is it under?
+License: G1
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 5.0.1.9000
